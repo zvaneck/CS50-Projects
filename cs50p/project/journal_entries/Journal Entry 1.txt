@@ -1,0 +1,11 @@
+Date: August 16, 2023
+Entry #: 1
+Bed: 2:00 AM
+Wake: 9:00 AM
+
+I am grateful for:
+	1. My dogs
+	2. Summer weather
+	3. Free online courses (like CS50P!)
+
+Today I woke up, stretched and went for a bike ride. I then took my dogs for a walk and worked on my CS50P final project. It was a good day!
